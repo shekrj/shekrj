@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Abhishek Kumar
 
 B.Tech IT @ Sharda University  
-Python | SQL | Data Structures & Algorithms | CustomTkinter | MySQL | Git
+Python | SQL | Data Structures & Algorithms | Database Management System | CustomTkinter | MySQL | Git
 
 ---
 
