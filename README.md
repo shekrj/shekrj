@@ -14,15 +14,15 @@ Python | Data Structures & Algorithms | Database Management Systems (RDBMS) | My
 
 - **💻 DSA Practice**  
   Python solutions for key Data Structures problems, up to Binary Trees.  
-  [Repo](https://github.com/shekrj/DSA)
+  [Repo](https://github.com/shekrj/Python-DSA-Practice)
 
 - **🗄️ SQL Practice**  
   Collection of MySQL queries and small practice projects.  
-  [Repo](https://github.com/shekrj/SQL-Practice)
+  [Repo](https://github.com/shekrj/MySQL-Practice)
 
 - **📊 Power BI Dashboard**  
   Faculty-guided data visualization project.  
-  [Repo](https://github.com/shekrj/PowerBI-Dashboard)
+  [Repo](https://github.com/shekrj/Automobile-Market-Research-Analysis)
 
 ---
 
