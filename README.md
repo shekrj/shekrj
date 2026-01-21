@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Abhishek Kumar
 
 B.Tech IT @ Sharda University  
-Python | Data Structures & Algorithms | Database Management Systems (RDBMS) | MySQL | CustomTkinter | Git | Postman | Pytest
+Python | DSA | OOP | RDBMS | MySQL | Git | Postman | Pytest
 
 ---
 
