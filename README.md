@@ -20,9 +20,9 @@ Python | DSA | OOP | RDBMS | MySQL | Git | Postman | Pytest
   Collection of MySQL queries and small practice projects.  
   [Repo](https://github.com/shekrj/MySQL-Practice)
 
-- **📊 Power BI Dashboard**  
-  Faculty-guided data visualization project.  
-  [Repo](https://github.com/shekrj/Automobile-Market-Research-Analysis)
+- **🧪 Git Practice**  
+  Practicing git commands
+  [Repo](https://github.com/shekrj/git-practice)
 
 ---
 
