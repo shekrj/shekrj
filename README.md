@@ -20,12 +20,8 @@ Python | DSA | OOP | RDBMS | MySQL | Git | Postman | Pytest
   Collection of MySQL queries and small practice projects.  
   [Repo](https://github.com/shekrj/MySQL-Practice)
 
-- **🧪 Git Practice**  
-  Practicing Git commands using Git Bash. 
-  [Repo](https://github.com/shekrj/git-practice)
-
 ---
 
 ## 🌱 Currently Learning
 
-basic API Testing using Postman and automation using Pytest
+Basic API Testing using Postman + Pytest and git commands using Git Bash. [Repo](https://github.com/shekrj/git-practice)
