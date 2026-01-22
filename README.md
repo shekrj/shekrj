@@ -21,7 +21,7 @@ Python | DSA | OOP | RDBMS | MySQL | Git | Postman | Pytest
   [Repo](https://github.com/shekrj/MySQL-Practice)
 
 - **🧪 Git Practice**  
-  Practicing git commands
+  Practicing Git commands using Git Bash. 
   [Repo](https://github.com/shekrj/git-practice)
 
 ---
