@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Abhishek Kumar
 
 B.Tech IT @ Sharda University  
-Python | DSA | OOP | RDBMS | MySQL | Git | Postman | Pytest
+Python | DSA | OOP | RDBMS | MySQL | Git | Postman | Pytest | Jira
 
 ---
 
@@ -11,6 +11,11 @@ Python | DSA | OOP | RDBMS | MySQL | Git | Postman | Pytest
   Sleek Python weather app with 7-day forecasts, live AQI, voice input, and dynamic UI.  
   _Code is private as it’s part of a major college project._  
   [Repo](https://github.com/shekrj/Sky-Scout-Modern-Weather-App)
+  
+- **📊 API Testing Project**  
+  Mini project demonstrating API testing using Python (Pytest), Postman, and Jira.  
+  Validates JSONPlaceholder endpoints (GET, POST, PUT, PATCH, DELETE), logs sample bugs in Jira, and includes Postman collections.  
+  [Repo](https://github.com/yourusername/api-testing-project)
 
 - **💻 DSA Practice**  
   Python solutions for key Data Structures problems, up to Binary Trees.  
@@ -20,8 +25,8 @@ Python | DSA | OOP | RDBMS | MySQL | Git | Postman | Pytest
   Collection of MySQL queries and small practice projects.  
   [Repo](https://github.com/shekrj/MySQL-Practice)
 
----
-
 ## 🌱 Currently Learning
-
-Basic API Testing using Postman + Pytest and git commands using Git Bash. [Repo](https://github.com/shekrj/git-practice)
+- Practicing API testing with Python, Pytest, and Postman  
+- Exploring Jira for agile workflows and bug tracking  
+- Improving automation skills and learning new QA/Dev tools  
+- Continuously enhancing Python, DSA, and database knowledge
