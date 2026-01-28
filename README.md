@@ -15,7 +15,7 @@ Python | DSA | OOP | RDBMS | MySQL | Git | Postman | Pytest | Jira
 - **📊 API Testing Project**  
   Mini project demonstrating API testing using Python (Pytest), Postman, and Jira.  
   Validates JSONPlaceholder endpoints (GET, POST, PUT, PATCH, DELETE), logs sample bugs in Jira, and includes Postman collections.  
-  [Repo](https://github.com/yourusername/api-testing-project)
+  [Repo](https://github.com/shekrj/api-testing-project)
 
 - **💻 DSA Practice**  
   Python solutions for key Data Structures problems, up to Binary Trees.  
