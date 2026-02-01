@@ -18,7 +18,7 @@ Python | DSA | OOP | RDBMS | MySQL | Git | Postman | Pytest | Jira
   [Repo](https://github.com/shekrj/api-testing-project)
 
 - **💻 DSA Practice**  
-  Python solutions for key Data Structures problems.
+  Python solutions for key Data Structures problems.  
   [Repo](https://github.com/shekrj/Python-DSA-Practice)
 
 - **🗄️ SQL Practice**  
@@ -26,7 +26,4 @@ Python | DSA | OOP | RDBMS | MySQL | Git | Postman | Pytest | Jira
   [Repo](https://github.com/shekrj/MySQL-Practice)
 
 ## 🌱 Currently Learning
-- Practicing API testing with Python, Pytest, and Postman  
-- Exploring Jira for agile workflows and bug tracking  
-- Improving automation skills and learning new QA/Dev tools  
-- Continuously enhancing Python, DSA, and database knowledge
+- Continuously enhancing Python, DSA, and other tools and technologies.
