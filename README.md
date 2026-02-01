@@ -18,7 +18,7 @@ Python | DSA | OOP | RDBMS | MySQL | Git | Postman | Pytest | Jira
   [Repo](https://github.com/shekrj/api-testing-project)
 
 - **💻 DSA Practice**  
-  Python solutions for key Data Structures problems, up to Binary Trees.  
+  Python solutions for key Data Structures problems.
   [Repo](https://github.com/shekrj/Python-DSA-Practice)
 
 - **🗄️ SQL Practice**  
