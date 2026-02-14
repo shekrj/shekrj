@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Abhishek Kumar
 
 B.Tech IT @ Sharda University  
-Python | DSA | OOP | RDBMS | MySQL | Git | Postman | Pytest | Jira
+Python | SQL | MySQL | DSA | OOP | RDBMS | Postman | Pytest | Playwright | Jira | Git
 
 ---
 
